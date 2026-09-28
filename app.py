@@ -151,6 +151,5 @@ if st.button("🔍 Analyze Message", use_container_width=True):
 
 st.divider()
 
-st.caption(
-    "Built with Python • Scikit-learn • Streamlit"
-)
+st.caption("SpamShield AI • ML Spam Detection • Version 1.1")
+
